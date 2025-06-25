@@ -1,25 +1,12 @@
 {
-  "name": "@gustambolopez/s16.games",
-  "version": "1.0.0",
-  "description": "A free and easy to use game CDN for ubg and proxy sites.",
-  "main": "embed.js",
+  "name": "Evadion",
+  "version": "0.1.5",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "http-server -p 3069 -c-1"
   },
-  "keywords": [
-    "games",
-    "unblocked",
-    "embed",
-    "cdn"
-  ],
-  "author": "santiago16",
+  "author": "santiago16_",
   "license": "MIT",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/gustambolopez/s16.games.git"
-  },
-  "bugs": {
-    "url": "https://github.com/gustambolopez/s16.games/issues"
-  },
-  "homepage": "https://github.com/gustambolopez/s16.games#readme"
+  "engines": {
+    "node": ">=14"
+  }
 }

@@ -1,9 +1,5 @@
 [
     {
-        "title": "Timeshooter 3",
-        "alt": "timeshooter3"
-    },
-    {
         "title": "1v1.LOL",
         "alt": "1v1lol"
     },
@@ -12,12 +8,44 @@
         "alt": "badparenting"
     },
     {
+        "title": "Bank Robber",
+        "alt": "bankrobber"
+    },
+    {
+        "title": "Bank Robber 2",
+        "alt": "bankrobber2"
+    },
+    {
+        "title": "Bank Robber 3",
+        "alt": "bankrobber3"
+    },
+    {
         "title": "Bike Obby",
         "alt": "bikeobby"
     },
     {
-        "title": "Bodycam Shooter",
+        "title": "Blade Ball",
+        "alt": "bladeball"
+    },
+    {
+        "title": "Body Cam Shooter",
         "alt": "bodycamshooter"
+    },
+    {
+        "title": "Cho Cho Charles",
+        "alt": "chochocharles"
+    },
+    {
+        "title": "CS Deathmatch",
+        "alt": "csdeathmatch"
+    },
+    {
+        "title": "CS Parkour",
+        "alt": "csparkour"
+    },
+    {
+        "title": "Death Rails",
+        "alt": "deathrails"
     },
     {
         "title": "Funny Shooter 2",
@@ -28,20 +56,28 @@
         "alt": "getaway-shootout"
     },
     {
-        "title": "Grow a garden",
+        "title": "Grow a Garden",
         "alt": "growagarden"
+    },
+    {
+        "title": "Horror Among Us",
+        "alt": "horror-amongus"
+    },
+    {
+        "title": "Observation Duty",
+        "alt": "observation-duty"
     },
     {
         "title": "Pixel Gun Survival",
         "alt": "pixel-gun-survival"
     },
     {
-        "title": "Rainbow Friends",
-        "alt": "rainbowfr"
-    },
-    {
         "title": "R.E.P.O",
         "alt": "repo"
+    },
+    {
+        "title": "Rainbow Friends",
+        "alt": "rainbowfr"
     },
     {
         "title": "Snow Rider 3D",
@@ -54,5 +90,17 @@
     {
         "title": "Time Shooter 2",
         "alt": "timeshooter2"
+    },
+    {
+        "title": "Time Shooter 3",
+        "alt": "timeshooter3"
+    },
+    {
+        "title": "Tycoon Factory",
+        "alt": "tycoonfactory"
+    },
+    {
+        "title": "White Room",
+        "alt": "whiteroom"
     }
 ]
