@@ -1,0 +1,25 @@
+{
+  "name": "@gustambolopez/s16.games",
+  "version": "1.0.0",
+  "description": "A free and easy to use game CDN for ubg and proxy sites.",
+  "main": "embed.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "games",
+    "unblocked",
+    "embed",
+    "cdn"
+  ],
+  "author": "santiago16",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/gustambolopez/s16.games.git"
+  },
+  "bugs": {
+    "url": "https://github.com/gustambolopez/s16.games/issues"
+  },
+  "homepage": "https://github.com/gustambolopez/s16.games#readme"
+}
