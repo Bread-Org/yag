@@ -9,7 +9,7 @@
   }
 
   try {
-    const response = await fetch(apiUrl);
+    const response = await fetch(`${apiUrl}/g.json`);
 
     if (!response.ok)
       throw new Error(`Failed to fetch games JSON: ${response.statusText}`);
