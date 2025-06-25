@@ -36,7 +36,7 @@
         <h3 style="margin-top:10px; font-size:18px; color: #333333;">${game.title}</h3>
       </div>
     `).join("");
-  } catch (err) {$
+  } catch (err) {
     target.innerHTML = "<p style='color:red; text-align: center; font-family: sans-serif;'>Error loading games. Please try again later.</p>";
     console.error("Error loading games:", err);
   }
