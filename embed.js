@@ -1,4 +1,4 @@
-document.addEventListener("DOMContentLoaded", async () => {
+(async () => {
   const { api: apiUrl, target: targetSelector } = document.currentScript.dataset;
 
   const target = document.querySelector(targetSelector);
@@ -40,7 +40,7 @@ document.addEventListener("DOMContentLoaded", async () => {
     target.innerHTML = "<p style='color:red; text-align: center; font-family: sans-serif;'>Error loading games. Please try again later.</p>";
     console.error("Error loading games:", err);
   }
-});
+})();
 
 window.openGame = (apiUrl, alt) => {
   const modal = document.getElementById("gameModal");
